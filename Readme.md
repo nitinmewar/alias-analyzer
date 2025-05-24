@@ -13,7 +13,7 @@ func broken() {
     a := make([]int, 0) // unknown capacity
     b := a              // alias
 
-    b = append(b, 1)    // ❗ Warning: alias of unknown-cap slice
+    b = append(b, 1)    // Warning: alias of unknown-cap slice
     a = append(a, 2)    // fine
 }
 ```

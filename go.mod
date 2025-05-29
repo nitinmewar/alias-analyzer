@@ -1,4 +1,4 @@
-module github.com/nitinmewar/alias-analyser
+module github.com/nitinmewar/alias-analyzer
 
 go 1.23.9
 

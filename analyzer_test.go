@@ -3,7 +3,7 @@ package analyzer_test
 import (
 	"testing"
 
-	"github.com/nitinmewar/alias-analyser/analyzer"
+	"github.com/nitinmewar/alias-analyzer/analyzer"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 

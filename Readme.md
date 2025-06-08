@@ -21,7 +21,7 @@ func broken() {
 
 ## Usage
 ```bash
-go install github.com/nitinmewar/alias-analyser@latest
+go install github.com/nitinmewar/alias-analyzer@latest
 
 # or clone and run manually
 go run . ./slicetest
